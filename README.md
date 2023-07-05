@@ -9,8 +9,11 @@
 - Instead of long lists or tables of numbers and words, your data insights are beautiful, colorful, and compelling visuals. They tell stories about your data.
 - CHARTS USED :
 1] Bar and column charts : Bar charts are the standard for looking at a specific value across different categories.
+
 2] Combo charts : A combo chart combines a column chart and a line chart. Combining the two charts into one lets you make a quicker comparison of the data.
+
 3] Gauge charts : A radial gauge chart has a circular arc and displays a single value that measures progress toward a goal.
+
 4] KPIs : To measure progress.
 5] Line charts : Line charts emphasize the overall shape of an entire series of values, usually over time.
 6] Basic map : Use a basic map to associate both categorical and quantitative information with spatial locations.
